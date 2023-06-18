@@ -1,27 +1,23 @@
 # CODE-CHALLANGE-1
 # Grade Calculation Program
 
-This is a simple JavaScript program that calculates grades based on the marks provided.
+## Description
 
-## Usage
+The Grade Calculation Program is a simple JavaScript program that calculates grades based on the marks provided. It follows a specific set of rules to determine the corresponding grade for a given set of marks.
 
-1. Open the program in a JavaScript-enabled environment (e.g., a web browser console).
-2. When prompted, enter your marks.
-3. The program will calculate and display your corresponding grade.
+# Project Setup
 
-## How It Works
+To use the Grade Calculation Program, follow these steps:
 
-The program takes the input marks and applies a set of rules to determine the grade. Here's a brief overview of the grading criteria:
+A. Open the program in a JavaScript-enabled environment (e.g., a web browser console).
+B. When prompted, enter your marks.
+C. The program will calculate and display your corresponding grade.
 
-- Marks above 80: Grade A
-- Marks between 60 and 79 : Grade B
-- Marks between 50 and 59 : Grade C
-- Marks between 40 and 49 : Grade D
-- Marks 39 or below: Grade E
 
-Note: The program assumes the input marks are numeric.
 
-## Example
+# Author 
 
-Suppose you input marks as 75. The program will output the following:THIS IS YOUR GRADE B
+ThE FOLLOWIING PROGRAM was Created by Pius Mwangi
 
+# license
+THE PROGRAM IS A GITHUB PROJECT AND THE github.com LICENSE. 
