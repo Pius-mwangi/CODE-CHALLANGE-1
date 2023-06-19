@@ -9,9 +9,10 @@ The Grade Calculation Program is a simple JavaScript program that calculates gra
 
 To use the Grade Calculation Program, follow these steps:
 
-A. Open the program in a JavaScript-enabled environment (e.g., a web browser console).
-B. When prompted, enter your marks.
-C. The program will calculate and display your corresponding grade.
+Download or clone the project repository.
+
+Open the script.html file in a web browser.
+
 
 
 
